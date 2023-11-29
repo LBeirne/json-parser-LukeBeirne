@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "json-parser-LukeBeirne/1.0.0": {
+        "runtime": {
+          "json-parser-LukeBeirne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "json-parser-LukeBeirne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

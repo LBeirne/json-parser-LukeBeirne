@@ -1,0 +1,16 @@
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.exe
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.deps.json
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.runtimeconfig.json
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.runtimeconfig.dev.json
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.dll
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\ref\json-parser-LukeBeirne.dll
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\bin\Debug\net5.0\json-parser-LukeBeirne.pdb
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.csproj.AssemblyReference.cache
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.AssemblyInfoInputs.cache
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.AssemblyInfo.cs
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.csproj.CoreCompileInputs.cache
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.dll
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\ref\json-parser-LukeBeirne.dll
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.pdb
+C:\Users\lukeb\OneDrive\Documents\Work\CCU-Classes\CSCI_350\repos\json-parser-LukeBeirne\obj\Debug\net5.0\json-parser-LukeBeirne.genruntimeconfig.cache
